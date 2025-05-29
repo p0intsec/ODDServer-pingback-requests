@@ -1,4 +1,4 @@
-# Pingback Server
+# ODD and Pingback Server
 
 A lightweight HTTP and DNS pingback server built with Next.js that captures, logs, and displays incoming requests in real-time. Perfect for testing webhooks, monitoring API calls, debugging integrations, and development workflows.
 
